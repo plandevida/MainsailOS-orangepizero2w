@@ -8,7 +8,7 @@ DOWNLOAD_BASE_URL="https://dl.armbian.com/orangepizero2w/archive/Armbian_24.2.6_
 
 # Image source
 DOWNLOAD_URL_CHECKSUM="${DOWNLOAD_BASE_URL}.sha"
-DOWNLOAD_URL_IMAGE="${DOWNLOAD_BASE_URL}.torrent"
+DOWNLOAD_URL_IMAGE="${DOWNLOAD_BASE_URL}"
 
 # export Variables
 export BASE_ARCH
