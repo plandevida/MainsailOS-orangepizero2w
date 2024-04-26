@@ -7,8 +7,8 @@ BASE_ARCH="arm64"
 DOWNLOAD_BASE_URL="https://github.com/plandevida/armbian-builds-orangepizero2w/releases/latest/download"
 
 # Image source
-DOWNLOAD_URL_CHECKSUM="${DOWNLOAD_BASE_URL}/armbian-orangepi_zero2w_others_bookworm.img.sha256"
-DOWNLOAD_URL_IMAGE="${DOWNLOAD_BASE_URL}/armbian-orangepi_zero2w_others_bookworm.img.xz"
+DOWNLOAD_URL_CHECKSUM="${DOWNLOAD_BASE_URL}/armbian-orangepi_zero2w_1500mb_bookworm.img.sha256"
+DOWNLOAD_URL_IMAGE="${DOWNLOAD_BASE_URL}/armbian-orangepi_zero2w_1500mb_bookworm.img.xz"
 
 # export Variables
 export BASE_ARCH
