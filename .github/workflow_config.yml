@@ -16,15 +16,15 @@
 
 buildtest:
   # armbian based images
-  - armbian/bananapim2zero
-  - armbian/orangepi3lts
-  - armbian/orangepi4lts
-  - armbian/orangepi_zero2
+  # - armbian/bananapim2zero
+  # - armbian/orangepi3lts
+  # - armbian/orangepi4lts
+  # - armbian/orangepi_zero2
   - armbian/orangepi_zero2w
   # Orange Pi OS based images
   # Raspberry Pi OS based images
-  - raspberry/rpi32
-  - raspberry/rpi64
+  # - raspberry/rpi32
+  # - raspberry/rpi64
   # rpi 64 with KS
   # - raspberry/rpi64-ks
 
@@ -33,11 +33,11 @@ buildtest:
 
 release:
   # armbian based images
-  - armbian/orangepi3lts
-  - armbian/orangepi4lts
-  - armbian/orangepi_zero2
+  # - armbian/orangepi3lts
+  # - armbian/orangepi4lts
+  # - armbian/orangepi_zero2
   - armbian/orangepi_zero2w
   # Orange Pi OS based images
   # Raspberry Pi OS based images
-  - raspberry/rpi32
-  - raspberry/rpi64
+  # - raspberry/rpi32
+  # - raspberry/rpi64

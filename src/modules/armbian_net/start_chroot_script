@@ -40,7 +40,9 @@ fi
 ## END
 
 ## Step 3: Disable first run service
-systemctl_if_exists disable armbian-firstrun-config.service
+if [[ "$(systemctl | grep armbian-firstrun.service)" == *"armbian-firstrun.service"* ]]; then
+    systemctl_if_exists disable armbian-firstrun-config.service
+fi
 ## END
 
 ## Step 4: Copy original script to /usr/local/bin/network-configurator
