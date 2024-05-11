@@ -18,6 +18,7 @@ BASE_IMAGE_ENLARGEROOT=3000
 export BASE_ARCH
 export DOWNLOAD_URL_CHECKSUM
 export DOWNLOAD_URL_IMAGE
+export BASE_IMAGE_ENLARGEROOT
 
 ### JSON sniplet Setup
 ### NOTE: Please see all config files for setup variables!!!
