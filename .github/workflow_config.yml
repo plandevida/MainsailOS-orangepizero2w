@@ -21,6 +21,7 @@ buildtest:
   # - armbian/orangepi4lts
   # - armbian/orangepi_zero2
   - armbian/orangepi_zero2w
+  - armbian/orangepi_zero2w_1500mb
   # Orange Pi OS based images
   # Raspberry Pi OS based images
   # - raspberry/rpi32
@@ -37,6 +38,7 @@ release:
   # - armbian/orangepi4lts
   # - armbian/orangepi_zero2
   - armbian/orangepi_zero2w
+  - armbian/orangepi_zero2w_1500mb
   # Orange Pi OS based images
   # Raspberry Pi OS based images
   # - raspberry/rpi32
