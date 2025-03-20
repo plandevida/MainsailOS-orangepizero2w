@@ -1,5 +1,6 @@
 ![downloads](https://img.shields.io/github/downloads/mainsail-crew/MainsailOS/total)
 [![discord](https://img.shields.io/discord/758059413700345988?color=%235865F2&label=discord&logo=discord&logoColor=white&style=flat)](https://discord.gg/mainsail)
+[![Build MainsailOS](https://github.com/plandevida/MainsailOS-orangepizero2w/actions/workflows/BuildImages.yml/badge.svg)](https://github.com/plandevida/MainsailOS-orangepizero2w/actions/workflows/BuildImages.yml)
 
 <p align="center">
 <img src=".github/sdcard-logo.png" style="width:40%" >
